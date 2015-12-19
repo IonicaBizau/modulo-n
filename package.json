@@ -1,0 +1,37 @@
+{
+  "name": "modulo-n",
+  "version": "1.0.0",
+  "description": "Get unique number results based on unique inputs using modulo-n classes.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/modulo-n.git"
+  },
+  "keywords": [
+    "modulo",
+    "n",
+    "unique",
+    "hash",
+    "numbers",
+    "integers"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/modulo-n/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/modulo-n#readme",
+  "blah": {
+    "description": [
+      "For a specific integer and range, you will always get the same number",
+      "result. It could happen to find different inputs for which the result",
+      "will be the same. That's expected."
+    ]
+  }
+}
