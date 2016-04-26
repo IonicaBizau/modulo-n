@@ -1,3 +1,4 @@
+
 # modulo-n [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/modulo-n.svg)](https://www.npmjs.com/package/modulo-n) [![Downloads](https://img.shields.io/npm/dt/modulo-n.svg)](https://www.npmjs.com/package/modulo-n) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get unique number results based on unique inputs using modulo-n classes.
@@ -6,13 +7,16 @@ For a specific integer and range, you will always get the same number
 result. It could happen to find different inputs for which the result
 will be the same. That's expected.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save modulo-n
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const moduloN = require("modulo-n");
@@ -27,7 +31,8 @@ console.log(moduloN(43, 2, 8));
 // => 3
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `moduloN(n, min, max)`
 Returns a number that will be unique for a specific `n` and range.
@@ -40,15 +45,18 @@ Returns a number that will be unique for a specific `n` and range.
 #### Return
 - **Number** A number that will greater or equal to `min` but lower than `max` and will be always the same for the same range and same `n`.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`numberly`](https://github.com/IonicaBizau/numberly#readme)
 
-## License
+ - [`numberly`](https://github.com/IonicaBizau/numberly#readme)—Get a specific number for an input string and number range.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
