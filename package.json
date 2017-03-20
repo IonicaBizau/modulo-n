@@ -1,6 +1,6 @@
 {
   "name": "modulo-n",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Get unique number results based on unique inputs using modulo-n classes.",
   "main": "lib/index.js",
   "directories": {
@@ -21,7 +21,7 @@
     "numbers",
     "integers"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/modulo-n/issues"
@@ -38,12 +38,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
