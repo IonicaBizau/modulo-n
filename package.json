@@ -1,6 +1,6 @@
 {
   "name": "modulo-n",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Get unique number results based on unique inputs using modulo-n classes.",
   "main": "lib/index.js",
   "directories": {
