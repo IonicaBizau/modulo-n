@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Returns a number that will be unique for a specific `n` and range.
 
 #### Params
+
 - **Number** `n`: The input number.
 - **Number** `min`: The minimum number in the range.
 - **Number** `max`: The maximum number in the range.
