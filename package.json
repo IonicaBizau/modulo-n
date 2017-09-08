@@ -1,6 +1,6 @@
 {
   "name": "modulo-n",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Get unique number results based on unique inputs using modulo-n classes.",
   "main": "lib/index.js",
   "directories": {
@@ -44,6 +44,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
